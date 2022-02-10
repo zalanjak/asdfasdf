@@ -11,6 +11,8 @@ namespace asdfasdf
         static void Main(string[] args)
         {
             Console.WriteLine("blablabla");
+
+            Console.WriteLine("Jó reggelt!");
         }
     }
 }
